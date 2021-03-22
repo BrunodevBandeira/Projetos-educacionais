@@ -2,6 +2,9 @@
 
 **Criei esse repositório para divulgar lugares onde o ensino de programação é acessivel para qualquer pessoa de baixa renda, fique atento, pois uma dessas escolas pode ser sua grande oportunidade.**
 
+
+   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="420">
+
 ## GENERATION BRASIL ##
 
  ![alt text](https://th.bing.com/th/id/OIP.4JnR3tl0ikKnVuoTkjIHDgAAAA?pid=ImgDet&rs=1)
