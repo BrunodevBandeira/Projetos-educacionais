@@ -1,4 +1,4 @@
-# Projetos-sociais <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" width="30" height="30"/>
+# Projetos-educacionais <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" width="30" height="30"/>
 
 **Criei esse repositório para divulgar lugares onde o ensino de programação é acessivel para qualquer pessoa de baixa renda, fique atento, pois uma dessas escolas pode ser sua grande oportunidade.**
 
