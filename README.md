@@ -48,7 +48,7 @@
     
    * Loiane Groner passa seu conhecimento de forma gratuita, portanto, o objetivo do portal loiane.traning é oferecer cursos para aqueles que tem vontade de aprender.
    
-     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Loiane.Training-8B0000?style=flat&logo=Loiane.Training)](https://loiane.training/sobre)
+     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Loiane.Training-8B0000?style=flat&logo=Loiane.Training)](https://loiane.training/)
 
 
 
