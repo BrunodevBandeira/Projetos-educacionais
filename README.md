@@ -72,7 +72,7 @@
  
      * Um bootcamp de 6 meses onde as alunas aprende a desenvolver aplicações web como também desenvolve habilidades socioemocionais. As estudantes não pagam nada durante o curso e, depois de conseguirem um emprego, elas doam uma contribuição por até dois anos para que outras mulheres possam ter a mesma oportunidade.
 
-       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Laboratoria-FFFF00?style=flat&logo=Laboratoria)](https://reprograma.com.br/)
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Laboratoria-FFFF00?style=flat&logo=Laboratoria)](https://www.laboratoria.la/br)
 
 
 
