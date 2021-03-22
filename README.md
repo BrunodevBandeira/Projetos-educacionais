@@ -11,7 +11,7 @@
 
 * A Generation Brasil é um BootCamp intensivo de 3 meses, onde o aluno sai com o conhecimento de desenvolvedor web junior, presente em 14 países agregando valor e fazendo a diferença na vida das pessoas.
 
-  Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-GenerationBrasil-ffa500?style=flat&logo=GenerationBrasil)](https://brazil.generation.org/)
+  Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-GenerationBrasil-FF8C00?style=flat&logo=GenerationBrasil)](https://brazil.generation.org/)
   
   
   
@@ -25,7 +25,15 @@
   * Uma comunidade com +350 mil desenvolvedores de software que acelera gratuitamente a sua carreira através de cursos, bootcamps, projetos práticos e desafios para     você conquistar as melhores oportunidades profissionais nas empresas mais inovadoras do mercado de trabalho.
 
 
-  Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DigitalInnovationOne-0000FF?style=flat&logo=DigitalInnovationOne)](https://digitalinnovation.one/sign-in?redirect=%2Ftracks)
+  Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DigitalInnovationOne-FFFF00?style=flat&logo=DigitalInnovationOne)](https://digitalinnovation.one/sign-in?redirect=%2Ftracks)
+  
+  
+  
+  
+  
+  
+  
+  ##
 
 
 
