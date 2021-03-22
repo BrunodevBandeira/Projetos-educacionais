@@ -115,7 +115,7 @@
    * Comunidade voltada para o aprendizado de UX com a missão de inserir as mulheres da comunidade negra no mercado de trabalho.
 
      Click aqui para acessar o instagrand: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.instagram.com/uxparaminaspretas/)    
-     Click aqui para acessar o linkedim: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.linkedin.com/company/uxparaminaspretas/) 
+     Click aqui para acessar o linkedin: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.linkedin.com/company/uxparaminaspretas/) 
 
 
      
