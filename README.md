@@ -32,24 +32,23 @@
   
   
   
-  
-  
-  
-  
-  
   ## RECODE ##
   
    ![alt text](https://www.cursoemvideo.com/wp-content/uploads/2019/07/apoiador-recode.png)
   
   * O Programa Recode é similar ao da Generation Brasil, pois ele tbm visa a formação de programadores full stack a empregabilidade de pessoas de 18 a 39 anos, em situação de maior vulnerabilidade social.
 
-     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Recode-4B0082?style=flat&logo=Recode)](https://recode.org.br/)
+   Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Recode-4B0082?style=flat&logo=Recode)](https://recode.org.br/)
   
   
   
+  ## loiane.training ##
   
-  
- 
+    ![alt text](https://static-cdn.jtvnw.net/jtv_user_pictures/ffd3de78-d8a7-42ef-997b-572b9c26c331-profile_image-300x300.png)
+    
+   * Loiane Groner passa seu conhecimento de forma gratuita, portanto, o objetivo do portal loiane.traning é oferecer cursos para aqueles que tem vontade de aprender.
+   
+     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Loiane.Training-8B0000?style=flat&logo=Loiane.Training)](https://loiane.training/sobre)
 
 
 
