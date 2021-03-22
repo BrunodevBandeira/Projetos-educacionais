@@ -19,7 +19,7 @@
   
    ![alt text](https://hermes.digitalinnovation.one/assets/logo-sm-white.png)
   
-  * A é uma comunidade com +350 mil desenvolvedores de software que acelera gratuitamente a sua carreira através de cursos, bootcamps, projetos práticos e desafios para     você conquistar as melhores oportunidades profissionais nas empresas mais inovadoras do mercado de trabalho.
+  * Uma comunidade com +350 mil desenvolvedores de software que acelera gratuitamente a sua carreira através de cursos, bootcamps, projetos práticos e desafios para     você conquistar as melhores oportunidades profissionais nas empresas mais inovadoras do mercado de trabalho.
 
 
   Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DigitalInnovationOne-0000FF?style=flat&logo=DigitalInnovationOne)](https://digitalinnovation.one/sign-in?redirect=%2Ftracks)
