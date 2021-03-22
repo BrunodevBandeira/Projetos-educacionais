@@ -77,3 +77,10 @@
 
 
 
+    ## 42-SP ##
+    
+     ![alt text](https://avatars3.githubusercontent.com/u/58227479?s=200&v=4)
+
+     * A 42 é uma escola de programação única, unindo as vantagens e capacitação do nível superior com horários flexíveis. Não há turmas e nem professores. Você será           responsável pelo seu sucesso e de seus colegas. Para progredir nos projetos, deve confiar na força do grupo. Ao dar e receber informações e alternar entre               treinamento e aprendizado.
+
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-42SP-FFFAFA?style=flat&logo=42SP)](https://www.42sp.org.br/)
