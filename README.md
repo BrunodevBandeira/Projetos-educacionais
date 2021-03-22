@@ -112,9 +112,10 @@
    
    ![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQFFLJhi3p7v_w/company-logo_200_200/0?e=2159024400&v=beta&t=3vCa4dJmZUkt9wNZqXVBsVB-uMGwy-EF55UzSTocx9Q)
    
-   * Escola voltada para o aprendizado de UX com a missão de inserir as mulheres da comunidade negra no mercado de trabalho.
+   * Comunidade voltada para o aprendizado de UX com a missão de inserir as mulheres da comunidade negra no mercado de trabalho.
 
-     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.instagram.com/uxparaminaspretas/)
+     Click aqui para acessar o instagrand: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.instagram.com/uxparaminaspretas/)    
+     Click aqui para acessar o linkedim: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.linkedin.com/company/uxparaminaspretas/) 
 
 
      
