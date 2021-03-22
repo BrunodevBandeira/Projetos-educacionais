@@ -25,7 +25,7 @@
   * Uma comunidade com +350 mil desenvolvedores de software que acelera gratuitamente a sua carreira através de cursos, bootcamps, projetos práticos e desafios para     você conquistar as melhores oportunidades profissionais nas empresas mais inovadoras do mercado de trabalho.
 
 
-  Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DigitalInnovationOne-FFFF00?style=flat&logo=DigitalInnovationOne)](https://digitalinnovation.one/sign-in?redirect=%2Ftracks)
+   Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DigitalInnovationOne-FFFF00?style=flat&logo=DigitalInnovationOne)](https://digitalinnovation.one/sign-in?redirect=%2Ftracks)
   
   
   
@@ -43,13 +43,13 @@
   
   * O Programa Recode é similar ao da Generation Brasil, pois ele tbm visa a formação de programadores full stack a empregabilidade de pessoas de 18 a 39 anos, em situação de maior vulnerabilidade social.
 
-Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Recode-4B0082?style=flat&logo=Recode)](https://recode.org.br/)
+     Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Recode-4B0082?style=flat&logo=Recode)](https://recode.org.br/)
   
   
   
   
   
-  ##
+ 
 
 
 
