@@ -95,4 +95,15 @@
      
      Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Programaria-00BFFF?style=flat&logo=Programaria)](https://www.programaria.org/)
 
+
+
+
+   ## PerifaCode ##
+      
+    ![alt text](https://avatars.githubusercontent.com/u/48770237?s=280&v=4)
+     
+    * Essa escola visainserir pessoas da periferia no mercado de trabalho.
+
+    Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-PerifaCode-F0F8FF?style=flat&logo=PerifaCode)](https://perifacode.com/)
+
      
