@@ -116,6 +116,20 @@
 
      Click aqui para acessar o instagrand: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.instagram.com/uxparaminaspretas/)    
      Click aqui para acessar o linkedin: [![SQL](https://img.shields.io/badge/-MinasPretas-8A2BE2?style=flat&logo=MinasPretas)](https://www.linkedin.com/company/uxparaminaspretas/) 
+     
+     
+     
+     
+     
+     
+     ## Coursera ##
+     
+     ![alt text](https://cdn.imp-multimedia.com/voh4kotyha808w840s.png)
+     
+     * A Coursera faz parcerias com mais de 200 universidades e empresas líderes para levar aprendizado  de forma acessível para o mundo. Oferecendo uma gama de                oportunidades de aprendizagem, desde, projetos práticos, cursos até certificados prontos para o mercado de trabalho e programas de graduação.
+     * OBS: Para achar os cursos em português, vá em explorar, escolha o que quer aprender e depois mude o idioma para português.
+
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Coursera-0000CD?style=flat&logo=Coursera)](https://www.coursera.org/)    
 
 
      
