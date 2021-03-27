@@ -108,6 +108,8 @@
     
     
     
+    
+    
    ## Minas Pretas ##
    
    ![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQFFLJhi3p7v_w/company-logo_200_200/0?e=2159024400&v=beta&t=3vCa4dJmZUkt9wNZqXVBsVB-uMGwy-EF55UzSTocx9Q)
@@ -122,6 +124,7 @@
      
      
      
+     
      ## Coursera ##
      
      ![alt text](https://cdn.imp-multimedia.com/voh4kotyha808w840s.png)
@@ -129,7 +132,21 @@
      * A Coursera faz parcerias com mais de 200 universidades e empresas líderes para levar aprendizado  de forma acessível para o mundo. Oferecendo uma gama de                oportunidades de aprendizagem, desde, projetos práticos, cursos até certificados prontos para o mercado de trabalho e programas de graduação.
      * OBS: Para achar os cursos em português, vá em explorar, escolha o que quer aprender e depois mude o idioma para português.
 
-       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Coursera-0000CD?style=flat&logo=Coursera)](https://www.coursera.org/)    
+      Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Coursera-0000CD?style=flat&logo=Coursera)](https://www.coursera.org/)    
+       
+       
+       
+       
+       
+       
+       ## Cursou ##
+       
+       ![alt text](https://d3q79ipuvy7qd5.cloudfront.net/entities/73ae194a77a34b240640602d92335b9b/a89768394c08e042805d0f34af3458ee622aef39b8335b4d28e63833969e466c.png)
+       
+        * O Cursou é um site de cursos online gratuitos que busca espalhar educação de forma fácil, rápida e gratuita às pessoas que buscam por conhecimento.
+       
+        Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Cursou-FFFAFA?style=flat&logo=Cursou)](https://www.cursou.com.br/)    
+
 
 
      
