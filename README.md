@@ -168,7 +168,20 @@
       
       * Curso em vídeo dispensa apresentações.
 
-       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-CursoEmVideo-000080?style=flat&logo=CursoEmVideo)](https://www.cursoemvideo.com/)    
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-CursoEmVideo-000080?style=flat&logo=CursoEmVideo)](https://www.cursoemvideo.com/)  
+       
+       
+       
+       
+       
+      ## Microsoft - AcademIA ##
+      
+      ![alt text](https://www.nts.ps/wp-content/uploads/2019/10/Microsoft-Logo-Grey.png)
+
+      * Aqui você encontra conteúdos de Inteligência Artificial e Nuvem baseado nas tecnologias Microsoft.
+   
+      Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Microsoft-40E0D0?style=flat&logo=Microsoft)](https://www.microsoft.com/pt-br/academia)  
+
       
       
       
