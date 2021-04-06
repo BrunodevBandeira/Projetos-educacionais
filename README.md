@@ -186,6 +186,17 @@
       
       
       
+      
+      ## DevDojo ##
+      
+      ![alt text](https://avatars.githubusercontent.com/u/30412042?s=400&v=4)
+      
+      * Um dos maiores e melhores conteúdos voltado para programação.
+      
+      Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-DevDojo-696969?style=flat&logo=DevDojo)](https://www.youtube.com/c/DevDojoBrasil/playlists)  
+
+      
+      
 
 
      
