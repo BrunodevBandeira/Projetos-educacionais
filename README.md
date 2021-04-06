@@ -149,4 +149,30 @@
 
 
 
+
+
+      ## Erick Wendel - Node.js ##
+      
+      ![alt text](https://pbs.twimg.com/profile_images/1192804356204224512/8v6Xx019_400x400.jpg)
+      
+       * Curso gratuito de Node.js.
+
+      Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-ErickWendel-3CB371?style=flat&logo=ErickWendel)](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr)    
+      
+      
+      
+      
+      ## Curso em vídeo ##
+      
+      ![alt text](https://pbs.twimg.com/profile_images/378800000157650181/8e1bbdf27ff82759f9101e5e7dfc0c31.jpeg)
+      
+      * Curso em vídeo dispensa apresentações.
+
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-CursoEmVideo-000080?style=flat&logo=CursoEmVideo)](https://www.cursoemvideo.com/)    
+      
+      
+      
+      
+
+
      
