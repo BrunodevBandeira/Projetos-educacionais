@@ -197,6 +197,16 @@
 
       
       
+      
+      
+      
+      ## GeoFisicando ##
+      
+      ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+         
+      * Apesar do nome não fazer referência a programação, esse canal é voltado para o ensino de programação em C e Python.
+      
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-GeoFisicando-0000CD?style=flat&logo=GeoFisicando)](https://www.youtube.com/c/Geofisicando/playlists)  
 
 
      
