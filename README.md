@@ -215,7 +215,7 @@
        
        
        
-       ## Institulo PROA ## 
+       ## Instituto PROA ## 
 
        ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EBZY_VqX8rqP4eFYuIx0eK83isUsX1M-Aw&usqp=CAU)
        
