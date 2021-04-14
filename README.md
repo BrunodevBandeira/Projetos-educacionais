@@ -242,7 +242,13 @@
 
      
      
+     ## Soulcode ##
      
+     ![alt text](https://media-exp1.licdn.com/dms/image/C4D0BAQEgkbZTYlbSgg/company-logo_200_200/0/1575041292325?e=2159024400&v=beta&t=Ldkq5KQPfJIsilYjC6dAN8hr6-cNvxVe-7sK4cBG5WI)
+
+     * A Soulcode é um curso gratuito com objetivo de capacitar os alunos a se tornarem Desenvolvedores FRONT-END e MOBILE.
      
+       Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Soulcode-FAFAD2?style=flat&logo=Soulcode)](https://soulcodeacademy.org/curso-frontend-e-mobile.html)  
+
 
      
