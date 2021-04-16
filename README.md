@@ -251,4 +251,20 @@
        Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-Soulcode-FAFAD2?style=flat&logo=Soulcode)](https://soulcodeacademy.org/curso-frontend-e-mobile.html)  
 
 
+
+
+
+   ## IGTI ##
+   
+  ![alt text](https://media-exp1.licdn.com/dms/image/C4E0BAQHEAbZ_JpIBRg/company-logo_200_200/0/1606932828390?e=2159024400&v=beta&t=Qtl2mBTw9m7fatyD63MN1RdJlK5gpKzTQwMnvgEb8Io)
+  
+  
+   * O Instituto de Gestão e Tecnologia da Informação, fundada em 2006, é uma instituição de ensino superior credenciada pelo MEC. É referência nacional na formação profissional em TI e Tecnologias Emergentes, e possui um modelo educacional a distância que prioriza a excelência acadêmica dos seus alunos.
+
+    Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-IGTI-1E90FF?style=flat&logo=IGTI)](https://www.igti.com.br/custom/bootcamps-gratuitos/) 
+
+  
+  
+
+
      
