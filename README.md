@@ -275,6 +275,14 @@
   * Transformando jovens periféricos ou moradores de favela em programadores GRATUITAMENTE.
 
   Click aqui para acessar o site: [![SQL](https://img.shields.io/badge/-+1Code-DAA520?style=flat&logo=+1Code)](http://www.mais1code.com.br/) 
+  
+  
+  
+  
+  
+  <p align="center">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+   </p>
 
    
   
